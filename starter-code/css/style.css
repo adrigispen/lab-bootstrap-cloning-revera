@@ -1,0 +1,57 @@
+body {
+  font-size: 10px;
+}
+
+#landing-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #ed564b;
+} 
+#bottom {
+  background-color: #3b3b3b;
+  color: white;
+  border-top: 4px solid #ed564b;
+  height: 30vh;
+}
+.row .col-3 {
+  overflow: hidden;
+}
+#projects.row img {
+  width: 100%;
+}
+#projects p {
+  color: black;
+}
+#articles.row img {
+  height: 17vh;   
+}
+#articles span {
+  color: #ed564b;
+}
+h2 {
+ font-size: 1.2rem;
+ text-transform: uppercase;
+ font-weight: 700;
+}
+h3 {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: darkgray;
+}
+h4 {
+  font-size: 1rem;
+  font-weight: 700;
+}
+h5 {
+  font-size: 0.6rem;
+  color: grey;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+p {
+  font-size: 0.7rem;
+  color: darkgrey;
+}
